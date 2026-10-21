@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richrichrichman.github.io/sz-f75/sitemap.xml
